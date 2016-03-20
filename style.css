@@ -1,0 +1,15 @@
+body {
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+    font-size: 16px;
+    background-color: whitesmoke;
+    color: darkslategrey;
+    padding: 10px;
+    background-image: url("/background.jpg");
+}
+
+h1 {
+    font-family: Georgia, serif;
+    border-bottom: 3px solid;
+    color: darkblue;
+    font-size: 30px;
+}
